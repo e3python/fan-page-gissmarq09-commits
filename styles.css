@@ -1,0 +1,95 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    color: #ffffff;
+    background-color: #720c25;
+    padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+    font-family: 'bodoni moda', serif;
+    color: #4e101f;
+    font-size: 3.0em;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+h3 {
+    color: #560513;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.centered-heading {
+    text-align: center;
+    clear: both;
+}
+
+/* Image Styles */
+img {
+    max-width: 400px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px 0;
+}
+
+.red-image {
+    max-width: 400px;
+}
+
+.black-image {
+    max-width: 270px;
+    float: right;
+    margin-left: 30px;
+}
+
+.monlaferte-image {
+    max-width: 290px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 0px;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
+.credit {
+    font-size: 0.5em;
+    text-align: center;
+}
+
+/* List Styles */
+ol {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 15px;
+    font-size: 1em;
+    line-height: 1.8;
+}
+
+/* Container for content */
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #705858;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
