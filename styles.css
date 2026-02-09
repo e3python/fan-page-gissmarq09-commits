@@ -16,18 +16,24 @@ body {
 /* Heading Styles */
 h1 {
     font-family: 'bodoni moda', serif;
-    color: #4e101f;
+    color: #551222;
     font-size: 3.0em;
     margin-bottom: 15px;
     text-align: center;
 }
 
 h3 {
-    color: #560513;
+    color: #4b0b15;
     font-size: 1.8em;
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 15px;
+    text-align: center;
+
+}
+
+.centered-container {
+    text-align: center;
 }
 
 .centered-heading {
